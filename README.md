@@ -17,7 +17,7 @@ You need:
 
 
 
-1. Connect the two negative terminals of your bread board using a wire
+1. Connect the two negative terminals of your bread board using a wire and connect the negative terminal to a gnd pin on the arduino
 2. Take a red LED and plug it on one end of the board
 3. Connect the longer leg of the LED to pin 11 on the arduino using a wire
 4. Connect the other leg to the negative terminal using a resistor
